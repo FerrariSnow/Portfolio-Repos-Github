@@ -1,12 +1,19 @@
-import React from 'react'
-import Teste from './teste'
-import ResetCSS from './styles'
+import ResetCSS, { Container } from './styles'
+import Sidebar from './containers/Sidebar'
+import Sobre from './containers/Sobre'
+import Projetos from './containers/Projetos'
 
 function App() {
   return (
     <>
       <ResetCSS />
-      <Teste />
+      <Container>
+        <Sidebar />
+        <main>
+          <Sobre />
+          <Projetos />
+        </main>
+      </Container>
     </>
   )
 }
