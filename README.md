@@ -1,16 +1,14 @@
-# Portfolio resumido.
+# Troca de Tema.
 
-Este é um projeto de um portfolio mais simples, onde será apresentado os meus repositórios públicos do GitHub. Contendo um botão que realiza a troca do tema da página para modo noturno.
+Este é um projeto feito para praticar criação de componentes React utilizando o styled-component, além de tambem conhecer e colocar em prática o desenvolvimento de um botão que troca o tema da página entre modo Light e Dark, atraves do _ThemeProvider_ do styled.components.
 
 Projeto foi feito para fins educativos e realizado durante curso de Front-End da EBAC(Escola Britânica de Artes Cênicas e Tecnologias)
 
 ## Link de Acesso.
 
-Até o momento projeto não possui link de acesso pois ainda não foi finalizado, mas assim que estiver finalizado irei atualizar.
+O projeto está hospedado na plataforma Vercel e pode ser acessado através do seguinte link:
 
-<!-- O projeto está hospedado na plataforma Vercel e pode ser acessado através do seguinte link:
-
-[https://calculadora-imc-react-rho.vercel.app/](https://calculadora-imc-react-rho.vercel.app/) -->
+[https://calculadora-imc-react-rho.vercel.app/](https://calculadora-imc-react-rho.vercel.app/)
 
 ## Tecnologias Utilizadas
 
