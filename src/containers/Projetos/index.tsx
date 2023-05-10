@@ -10,30 +10,6 @@ const Projetos = () => (
       <li>
         <Projeto></Projeto>
       </li>
-      <li>
-        <Projeto></Projeto>
-      </li>
-      <li>
-        <Projeto></Projeto>
-      </li>
-      <li>
-        <Projeto></Projeto>
-      </li>
-      <li>
-        <Projeto></Projeto>
-      </li>
-      <li>
-        <Projeto></Projeto>
-      </li>
-      <li>
-        <Projeto></Projeto>
-      </li>
-      <li>
-        <Projeto></Projeto>
-      </li>
-      <li>
-        <Projeto></Projeto>
-      </li>
     </Lista>
   </section>
 )

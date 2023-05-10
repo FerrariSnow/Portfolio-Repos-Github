@@ -4,6 +4,9 @@ export type Props = {
   children: string
   tipo?: 'principal' | 'secundario'
   fontSize?: number
+  repoNome?: string
+  repoResumo?: string
+  repoLink?: string
 }
 
 const Paragrafo = ({ children, tipo = 'principal', fontSize }: Props) => (

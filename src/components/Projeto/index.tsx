@@ -4,9 +4,14 @@ import { Card, LinkBotao } from './styles'
 
 const Projeto = () => (
   <Card>
-    <Titulo>Projeto Calculadora IMC React</Titulo>
+    <Titulo>Calculadora-IMC-React</Titulo>
     <Paragrafo tipo="secundario">Calculadora de IMC feito com React</Paragrafo>
-    <LinkBotao>Visualizar</LinkBotao>
+    <LinkBotao
+      href="https://github.com/FerrariSnow/Calculadora-IMC-React"
+      target="_blank"
+    >
+      Visualizar
+    </LinkBotao>
   </Card>
 )
 
