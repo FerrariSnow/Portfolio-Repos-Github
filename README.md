@@ -8,7 +8,7 @@ Projeto foi feito para fins educativos e realizado durante curso de Front-End da
 
 O projeto está hospedado na plataforma Vercel e pode ser acessado através do seguinte link:
 
-[https://calculadora-imc-react-rho.vercel.app/](https://calculadora-imc-react-rho.vercel.app/)
+[[https://calculadora-imc-react-rho.vercel.app/](https://switch-theme-one.vercel.app/)]
 
 ## Tecnologias Utilizadas
 
